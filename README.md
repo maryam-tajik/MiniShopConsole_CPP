@@ -4,7 +4,7 @@
 
 This program is a simple store management system written in **C++** and designed as a **console-based** application. Its purpose is to manage products, customers, dealers, and record purchases.
 
-## Program Features
+### Program Features
 
 Main functionalities:
 
@@ -18,7 +18,7 @@ Main functionalities:
 
 ---
 
-### Reports:
+Reports:
 
 - Display the total purchase amount for a specific customer  
 - Show a list of customers who bought a specific product  
